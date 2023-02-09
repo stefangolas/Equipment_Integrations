@@ -1,3 +1,5 @@
 # Equipment_Integrations
 
-SpectraMax and BioTek ELx405 Washer
+DLL integrations for SpectraMax and BioTek ELx405 Washer.
+
+Contact stefanmgolas@gmail.com for questions.
